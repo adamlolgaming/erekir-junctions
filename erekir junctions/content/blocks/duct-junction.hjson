@@ -1,9 +1,0 @@
-type:junction
-name:duct junction
-speed:10
-capacity:3
-health:90
-requirements: [
-  beryllium/5
-]
-research:duct 

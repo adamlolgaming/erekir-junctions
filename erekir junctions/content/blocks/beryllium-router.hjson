@@ -1,7 +1,0 @@
-type:router
-name:clogging duct router
-health:90
-requirements: [
-  beryllium/5
-]
-research:duct 
