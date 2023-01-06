@@ -1,0 +1,22 @@
+#the mod name as displayed in-game
+displayName: "erekir junctions"
+
+#the internal name of your mod
+name: "erekir-junction"
+
+#your name
+author: "Adamlol_gaming"
+
+#the fully qualified main class of the mod
+main: "erekir-junctiom"
+
+#the mod description as seen in the mod dialog
+description: "mod that adds serpulo junctions routers and bridges to erekir"
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 140
+
+#this is not a java mod
+java: false
