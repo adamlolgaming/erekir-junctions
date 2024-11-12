@@ -16,7 +16,7 @@ description: "mod that adds serpulo junctions routers and bridges to erekir"
 version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: 140
+minGameVersion: 146
 
 #this is not a java mod
 java: false
